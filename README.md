@@ -1,2 +1,2 @@
 # pywayman
-Repurpose Microsoft lock screen photos as desktop backgrounds
+Relocate lock-screen photos on Windows
